@@ -1,4 +1,4 @@
-package org.example;
+package org.hkexample;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.jasypt.registry.AlgorithmRegistry;
